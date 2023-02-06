@@ -1,0 +1,141 @@
+@supports (grid-area: auto) {
+    
+    @media screen and (max-width:500px) {
+        .cssGrid {
+            display: grid;
+            grid-template-column: 30% 30% 30%;
+            grid-template-area:
+                "item1 item2 item3"
+                "item4 item5 item6"
+                "item7 item8 item9"
+                "santatracker";
+            justify-content: center;
+            grid-gap: 5% 5%;
+            margin-left: 100px;
+            margine-right: 100px;
+            list-style-type: none;
+        }
+        
+        
+        #item1 {
+            grid-area: item1;
+            background: url("../thousandsunny.jpg");
+            max-height: 400px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            list-style-type: none;
+
+        }        
+        
+        #item2 {
+            grid-area: item2;
+            background: url("../zorostatue.jpg");
+            max-height: 400px;
+            align-content: center;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            list-style-type: none;
+
+        }        
+        
+        #item3 {
+            grid-area: item3;
+            background: url("../frankystatue.jpg");
+            max-height: 400px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            list-style-type: none;
+
+        }        
+
+        #item4 {
+            grid-area: item4;
+            background: url("../luffywantedposter.jpg");
+            max-height: 400px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            list-style-type: none;
+
+        }        
+
+        #item5 {
+            grid-area: item5;
+            background: url("../frankywantedposter.jpg");
+            max-height: 400px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            list-style-type: none;
+
+        }        
+
+        #item6 {
+            grid-area: item6;
+            background: url("../zorowantedposter.jpg");
+            max-height: 400px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            list-style-type: none;
+
+        } 
+
+        #item7 {
+            grid-area: item7;
+            background: url("../golddragonkatana.jpg");
+            max-height: 400px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            list-style-type: none;
+
+        }   
+
+        #item8 {
+            grid-area: item8;
+            background: url("../yellowsnake.jpg");
+            max-height: 400px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            list-style-type: none;
+
+            
+        }   
+
+        #item9 {
+            grid-area: item9;
+            background: url("../rosymaplemothfarm.jpg");
+            max-height: 400px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            list-style-type: none;
+
+        }      
+
+        #santatracker {
+            grid-area: santatracker;
+            background-color: #D90707;
+            text-align: center;
+            list-style-type: none;
+
+        }
+
+        }
+    } /* Closing Media Query Bracket */
+    
+} /* Closing Support Query Bracket */

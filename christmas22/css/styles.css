@@ -1,0 +1,174 @@
+/*Colors
+ Orange red
+ Black
+ Gold
+ White
+ Yellow
+
+ Fonts
+ font-family: 'Lobster', cursive;
+ font-family: 'Satisfy', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+body, main, p, h1, h2, h3, nav, header, footer, img, ul, li, a {
+	margin:0px;
+	padding:0px;
+}    
+
+body {
+	background-color: #000;
+}
+
+p {
+ color: goldenrod;
+ text-align: center;
+ font-size: 1.3em;
+ font-family: 'Lobster', cursive;
+
+}
+
+h1, h3 {
+	text-align: center;
+	color: white;
+	font-size: 1.5em;
+	font-family: 'Satisfy', cursive;
+}
+
+h2 {
+	text-align: center;
+	color: whitesmoke;
+	font-size: 2em;
+	font-family: 'Satisfy', cursive;
+}
+
+/*#chopper {
+	margin-left: 770px;
+}
+*/
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+nav {
+	text-align: center;
+	font-size: 1.1em;
+	margin-left: 75px;
+	margin-right: 75px;
+
+
+}
+
+header {
+	background: url(../xmasheader.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 1.3em;
+}
+
+ul li a:hover {
+	color: yellow;
+}
+
+ul li a {
+	color: #fff;
+	list-style-type: none;
+	font-family: 'Satisfy', cursive;
+}
+
+li {
+	display: inline;
+
+}
+
+#item1 {
+	background: url(../thousandsunny.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#item2 {
+	background: url(../zorostatue.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#item3 {
+	background: url(../frankystatue.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#item4 {
+	background: url(../luffywantedposter.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#item5 {
+	background: url(../frankywantedposter.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#item6 {
+	background: url(../zorowantedposter.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#item7 {
+	background: url(../golddragonkatana.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#item8 {
+	background: url(../yellowsnake.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#item9 {
+	background: url(../rosymaplemothfarm.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#santatracker {
+	list-style-type: none;
+}
+
+.items {
+	margin-left: 200px;
+	margin-right: 200px;
+	min-height: 300px;
+	list-style-type: none;
+	border-bottom: 50px;
+}
+
+h2 li a {
+	color: yellow;
+	text-align: center;
+	font-family: 'Satisfy', cursive;
+}
+
+h2 li a:hover {
+	color: orangered;
+}
+
+
+/* Special Effects?*/
