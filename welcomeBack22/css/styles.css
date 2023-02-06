@@ -1,0 +1,89 @@
+/* Colors - #EBF38B - key lime | #F4E87C - Yellow Crayola | #E3D76B - Dark Khaki | #9F956C - Artichoke | #584D3D - Umber */
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&family=Comic+Neue:wght@400;700&display=swap');
+/*You've given me too much power Wellington.*/
+
+before *, *  after {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+body {
+	background-color:#FBFF12;
+	text-align: center;
+	padding: 15px;
+}
+
+header {
+	color: #E3D76B;
+	
+	border: solid 10px #000;
+	background-color: #FF206E;
+	font-weight: bold;
+	font-family: 'Comic Neue', cursive;
+}
+
+h1, h2 {
+	color: #FFF;
+	font-family: 'Comic Neue', cursive;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+
+p {
+	color: #F4E87C;
+	font-size: 1.5em;
+	font-family: 'Comic Neue', cursive;
+}
+
+section {
+	background-color: #FF206E;
+	padding: 15px;
+	margin: 10px;
+	border: solid 7px #000;
+}
+
+nav {
+	text-decoration: none;
+	background-color: #FF206E;
+	font-size: 2em;
+	padding: 15px;
+	display: block;
+	font-family: 'Comic Neue', cursive;
+}
+
+li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+
+a:link {
+	color: #584D3D;
+}
+a:visited {
+   color: #EBF38B;}
+
+a:hover {
+	color: #000;
+}
+
+a:active {
+	color: #FFF;}
+
+
+
+
+#img {
+	max-width: 300px;
+	max-height: 400px;
+	border-radius: 8px;
+	margin-bottom: 100px;
+	border: solid 5px #FFF;
+}
+
+footer {
+	border: solid 10px #000;
+	background-color: #FF206E;
+}
