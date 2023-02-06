@@ -1,0 +1,90 @@
+/* CSS Document */
+/* Needs body, h1, h2, block quote and table selector. Needs to have a psuedo-class selector for links. */
+
+/*CSS Reset*/
+*,*:active {
+	margine:0;
+	padding:0;
+	border:0;
+}
+
+body{
+	background-color: #D1D1D1;
+}
+
+header{
+	min-height: 300px;
+	background-image: url("../images/home_beagle.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+	
+}
+
+nav{
+	text-align: center;
+}
+
+li{
+	display: inline;
+	font-size: 2em;
+	margin: 0 25px;
+}
+
+li a:active{
+	color: #EDDDCC;
+}
+
+li a:hover{
+	color: #CC9929
+}
+
+li a:visited{
+	color: #FFFFFF
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+h1{
+	color: #EFCDBB;
+	text-align: center;
+}
+
+h2{
+	color: #FFFFFF;
+}
+
+p{
+	text-align: center;
+	font-size: 1.5em;
+	color: #53290C
+}
+
+blockquote{
+	color: #AD906F;
+}
+
+footer{
+	text-align: center;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 2em;
+}
+
+.button{
+	padding: 14px 28px;
+}
+
+.box{
+	padding: 14px 28px;
+	font-size: .5em;
+	width: 500px;
+}
