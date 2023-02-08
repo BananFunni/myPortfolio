@@ -15,7 +15,6 @@ a{
 h1,h2,h3{
     text-align: center;
     color:pink;
-    background-color:gold;
 }
 a:active{
     color:pink;
@@ -31,7 +30,7 @@ a:visited{
 nav{
     display:inline-block;
     list-style-type: none;
-    background-color: grey;
+    background-color:black;
 }
 
 p{
