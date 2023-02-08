@@ -28,3 +28,8 @@ a:hover{
 a:visited{
     color:black;
 }
+
+nav{
+    display:inline-block;
+    list-style-type: none;
+}
