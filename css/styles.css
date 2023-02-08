@@ -1,0 +1,19 @@
+*,* active {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+main{
+    background-color: gold;
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+}
+
+h1,h2,h3{
+    text-align: center;
+    color: black;
+}
