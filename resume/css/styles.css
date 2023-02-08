@@ -33,7 +33,7 @@ nav{
     display:inline-block;
     list-style-type: none;
     background-color:black;
-    text-align: center;
+    align-items: center;
 }
 
 p{
