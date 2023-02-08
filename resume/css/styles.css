@@ -14,8 +14,10 @@ a{
 
 h1,h2,h3{
     text-align: center;
-    color:pink;
+    color:rgb(49, 49, 49);
 }
+
+
 a:active{
     color:pink;
 }
@@ -35,6 +37,7 @@ nav{
 
 p{
     color: black;
+    font-size: 1.5em;
 }
 
 section {
@@ -42,4 +45,5 @@ section {
 	padding: 15px;
 	margin: 10px;
 	border: solid 7px gold;
+    width: 50%;
 }
