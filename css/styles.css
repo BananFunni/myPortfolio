@@ -16,4 +16,15 @@ a{
 h1,h2,h3{
     text-align: center;
     color: black;
+    background-color: khaki;
+}
+a:active{
+    color: cornsilk;
+}
+a:hover{
+    color: ghostwhite;
+}
+
+a:visited{
+    color:black;
 }
