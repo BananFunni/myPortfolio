@@ -1,0 +1,46 @@
+*,* active {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+main{
+    background-color:yellow;
+}
+
+a{
+    text-align: center;
+}
+
+h1,h2,h3{
+    text-align: center;
+    color:pink;
+    background-color:gold;
+}
+a:active{
+    color:pink;
+}
+a:hover{
+    color:yellow;
+}
+
+a:visited{
+    color:white;
+}
+
+nav{
+    display:inline-block;
+    list-style-type: none;
+    background-color: grey;
+}
+
+p{
+    color: black;
+}
+
+section {
+	background-color: #FF206E;
+	padding: 15px;
+	margin: 10px;
+	border: solid 7px gold;
+}

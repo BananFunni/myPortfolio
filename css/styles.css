@@ -11,6 +11,7 @@ main{
 a{
     text-align: center;
     color: aliceblue;
+    background-color: aqua;
 }
 
 h1,h2,h3{
@@ -32,4 +33,11 @@ a:visited{
 nav{
     display:inline-block;
     list-style-type: none;
+}
+
+section {
+	background-color: #4a26e9;
+	padding: 15px;
+	margin: 10px;
+	border: solid 7px rgb(223, 192, 114);
 }
