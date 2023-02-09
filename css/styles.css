@@ -10,7 +10,7 @@ main{
 
 a{
     text-align: center;
-    color: rgb(184, 209, 231);
+    color: rgb(164, 164, 164);
 }
 
 h1,h2,h3{
@@ -18,23 +18,29 @@ h1,h2,h3{
     color: black;
     background-color: khaki;
 }
-a:active{
+li a:active{
     color: rgb(230, 205, 105);
 }
-a:hover{
+li a:hover{
     color: ghostwhite;
 }
 
-a:visited{
+li a:visited{
     color:black;
 }
 
 nav{
     list-style-type: none;
     text-align: center;
-    background-color: lightblue;
-    float: left;
 }
+
+li{
+    display: inline;
+    font-size: 2em;
+    margin: 0 25px;
+}
+
+
 
 section {
     color: beige;
