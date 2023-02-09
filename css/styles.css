@@ -5,12 +5,12 @@
 }
 
 main{
-    
+    background-color: khaki;
 }
 
 a{
     text-align: center;
-    color: aliceblue;
+    color: rgb(184, 209, 231);
 }
 
 h1,h2,h3{
@@ -19,7 +19,7 @@ h1,h2,h3{
     background-color: khaki;
 }
 a:active{
-    color: cornsilk;
+    color: rgb(230, 205, 105);
 }
 a:hover{
     color: ghostwhite;
@@ -34,9 +34,11 @@ nav{
     list-style-type: none;
     text-align: center;
     background-color: lightblue;
+    float: left;
 }
 
 section {
+    color: beige;
 	padding: 15px;
 	margin: 10px;
 	border: solid 7px rgb(223, 192, 114);
@@ -45,4 +47,12 @@ section {
 p{
     text-align: center;
     color: black;
+}
+
+footer{
+    display:inline-block;
+    list-style-type: none;
+    text-align: center;
+    background-color: lightblue;
+    float: left;
 }
