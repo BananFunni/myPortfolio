@@ -34,10 +34,18 @@ nav{
     text-align: center;
 }
 
-li{
+nav ul{
     display: inline;
     font-size: 2em;
     margin: 0 25px;
+    text-align: center;
+}
+
+footer ul{
+    display: inline;
+    font-size: 2em;
+    margin: 0 25px;
+    text-align: center;
 }
 
 
