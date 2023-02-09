@@ -13,6 +13,11 @@ a{
     color: rgb(164, 164, 164);
 }
 
+li a {
+    list-style-type: none;
+    display: inline-block;
+}
+
 h1,h2,h3{
     text-align: center;
     color: black;
