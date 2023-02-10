@@ -41,6 +41,7 @@ nav li{
 }
 
 nav ul{
+    margin-right: 50%;
     list-style-type:none;
     display: inline-block;
     font-size: 1.3em;
@@ -48,6 +49,7 @@ nav ul{
 }
 
 footer ul{
+    margin-right: 50%;
     list-style-type:none;
     display: inline-block;
     font-size: 1.3em;
