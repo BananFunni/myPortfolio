@@ -34,9 +34,10 @@ li a:visited{
     color:black;
 }
 
-nav{
+nav li{
     list-style-type: none;
     text-align: center;
+    display: inline-block;
 }
 
 nav ul{
@@ -73,7 +74,7 @@ p{
     font-size: 1.25em;
 }
 
-footer{
+footer li{
     list-style-type: none;
     text-align: center;
     display: inline-block;
