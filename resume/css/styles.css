@@ -29,8 +29,15 @@ li a:visited{
     color:white;
 }
 
+nav {
+    margin-left: 50%;
+}
+
+footer{
+    margin-left: 50%;
+}
+
 nav ul{
-    margin-right: 450px;
     display:inline-block;
     list-style-type: none;
     background-color:black;
