@@ -44,14 +44,14 @@ footer ul{
 }
 
 nav li{
-	display: inline;
-	font-size: 1.3em;
+	display: inline-block;
+	font-size: 2em;
     text-align: center;
 }
 
 footer li{
-	display: inline;
-	font-size:1.3em;
+	display: inline-block;
+	font-size: 2em;
     text-align: center;
 }
 
