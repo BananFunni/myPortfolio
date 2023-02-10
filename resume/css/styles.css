@@ -8,10 +8,6 @@ main{
     background-color:yellow;
 }
 
-a{
-    text-align: center;
-}
-
 h1,h2,h3{
     text-align: center;
     color:rgb(49, 49, 49);
@@ -22,7 +18,7 @@ li a:active{
     color:pink;
 }
 li a:hover{
-    color:yellow;
+    color:rgb(255, 255, 182);
 }
 
 li a:visited{
@@ -40,14 +36,14 @@ footer{
 nav ul{
     display:inline-block;
     list-style-type: none;
-    background-color:black;
+    background-color:gold;
     text-align: center;
 }
 
 footer ul{
     display: inline-block;
     list-style-type: none;
-    background-color: black;
+    background-color:gold;
     text-align: center;
 }
 
