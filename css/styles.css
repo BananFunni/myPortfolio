@@ -35,7 +35,6 @@ li a:visited{
 }
 
 nav li{
-    margin-left: 50%;
     list-style-type: none;
     text-align: center;
     display: inline-block;
@@ -45,12 +44,10 @@ nav ul{
     list-style-type:none;
     display: inline-block;
     font-size: 1.3em;
-    margin-left: 50%;
     text-align: center;
 }
 
 footer ul{
-    margin-left: 50%;
     list-style-type:none;
     display: inline-block;
     font-size: 1.3em;
@@ -76,7 +73,6 @@ p{
 }
 
 footer li{
-    margin-left: 50%;
     list-style-type: none;
     text-align: center;
     display: inline-block;
