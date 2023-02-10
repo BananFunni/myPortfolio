@@ -41,7 +41,7 @@ nav li{
 }
 
 nav ul{
-    margin-right: 50%;
+    margin-right: 450px;
     list-style-type:none;
     display: inline-block;
     font-size: 1.3em;
@@ -49,7 +49,7 @@ nav ul{
 }
 
 footer ul{
-    margin-right: 50%;
+    margin-right: 450px;
     list-style-type:none;
     display: inline-block;
     font-size: 1.3em;
@@ -61,7 +61,7 @@ footer ul{
 section {
     color: beige;
 	padding: 15px;
-	margin: 10px;
+	margin: 450px;
 	border: solid 7px rgb(223, 192, 114);
     width: 80%;
     font-size:1.5em;
