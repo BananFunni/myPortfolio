@@ -22,6 +22,7 @@ h1,h2,h3{
     text-align: center;
     color: black;
     background-color: khaki;
+    padding: 150px;
 }
 li a:active{
     color: rgb(230, 205, 105);
@@ -38,6 +39,7 @@ nav li{
     list-style-type: none;
     text-align: center;
     display: inline-block;
+    padding: 100px;
 }
 
 nav ul{
@@ -82,4 +84,5 @@ footer li{
     list-style-type: none;
     text-align: center;
     display: inline-block;
+    padding: 100px;
 }
