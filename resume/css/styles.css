@@ -30,7 +30,7 @@ li a:visited{
 }
 
 nav ul{
-    margin-left: 50%;
+    margin-right: 450px;
     display:inline-block;
     list-style-type: none;
     background-color:black;
@@ -38,7 +38,7 @@ nav ul{
 }
 
 footer ul{
-    margin-left: 50%;
+    margin-right: 450px;
     display: inline-block;
     list-style-type: none;
     background-color: black;
@@ -46,14 +46,12 @@ footer ul{
 }
 
 nav li{
-    margin-left: 50%;
 	display: inline-block;
 	font-size: 2em;
     text-align: center;
 }
 
 footer li{
-    margin-left: 50%;
 	display: inline-block;
 	font-size: 2em;
     text-align: center;
