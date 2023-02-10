@@ -29,11 +29,18 @@ li a:visited{
     color:white;
 }
 
-nav{
+nav ul{
     display:inline-block;
     list-style-type: none;
     background-color:black;
-    align-items: center;
+    text-align: center;
+}
+
+footer ul{
+    display: inline-block;
+    list-style-type: none;
+    background-color: black;
+    text-align: center;
 }
 
 li{
