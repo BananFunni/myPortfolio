@@ -43,10 +43,15 @@ footer ul{
     text-align: center;
 }
 
-li{
+nav li{
 	display: inline;
-	font-size: 2em;
-	margin: 0 25px;
+	font-size: 1.3em;
+    text-align: center;
+}
+
+footer li{
+	display: inline;
+	font-size:1.3em;
     text-align: center;
 }
 
