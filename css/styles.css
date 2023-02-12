@@ -22,7 +22,6 @@ h1,h2,h3{
     text-align: center;
     color: black;
     background-color: khaki;
-    padding: 150px;
 }
 li a:active{
     color: rgb(230, 205, 105);
@@ -67,7 +66,7 @@ footer{
 
 section {
     color: beige;
-	padding: 15px;
+	margin-left: 100px;
 	border: solid 7px rgb(223, 192, 114);
     width: 80%;
     font-size:1.5em;
