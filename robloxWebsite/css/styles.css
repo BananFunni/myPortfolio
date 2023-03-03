@@ -1,0 +1,130 @@
+/* CSS Document */
+*,*:active {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+
+header{
+	
+}
+
+h1{
+	text-align: center;
+	padding: 25px;
+	background-color: #32323270;
+	color: #FFFFFF;
+}
+
+h4{
+	text-align: center;
+	background-color: #32323270;
+	font-size: .5em;
+	color: #FFFFFF;
+}
+
+main{
+	
+}
+
+nav{
+	font-size: 2.5em;
+	text-align: center;
+}
+
+nav li{
+	display: inline-block;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+nav li a:active{
+	color: #8A1012;
+}
+
+nav li a:hover{
+	color: #FFFFFF;
+}
+
+nav li a:visited{
+	color: #FF0004
+}
+
+nav ul li{
+	margin: 50px;
+}
+
+footer{
+	font-size: 2.5em;
+	text-align: center;
+}
+
+footer li{
+	display: inline-block;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+footer ul li{
+	margin: 50px;
+}
+
+footer li a:active{
+	color: #8A1012;
+}
+
+footer li a:hover{
+	color: #FFFFFF;
+}
+
+footer li a:visited{
+	color: #FF0004
+}
+
+p{
+	font-size: 2em;
+	text-align: center;
+	background-color: #32323270;
+	margin: 150px;
+	color: #FFFFFF;
+}
+
+table{
+	margin: 600px;
+}
+
+.index{
+	background-image: url("../images/index_pic.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.robloxStudio{
+	background-image: url("../images/studio.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.robloxEvents{
+	background-image: url("../images/events1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.newsletter{
+	background-image: url("../images/newsletter.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.itemsCurrency{
+	background-image: url("../images/currency.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
