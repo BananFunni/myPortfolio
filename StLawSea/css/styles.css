@@ -1,0 +1,88 @@
+/* CSS Document */
+
+*,*:after{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+main{
+	border:solid 30px;
+	border-color:#7589E5;
+}
+
+body{
+	
+}
+
+h1{
+	text-align: center;
+}
+
+header{
+	background-image: url("../images/slsHeroImage.jpg");
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: center;
+	padding:25px;
+}
+
+footer{
+	background-color: azure;
+	margin: 150px;
+	padding: 25px;
+}
+
+nav{
+	text-align: center;
+	font-size: 2em;
+}
+
+nav li{
+	
+	display:inline-block;
+	text-decoration: none;
+	list-style-type: none;
+	
+}
+
+nav li a:active{
+	color: #009BFF;
+}
+
+nav li a:visited{
+	color: #0034FF;
+}
+
+nav li a:hover{
+	color: #8279F3;
+}
+
+p{
+	font-size: 1.25em;
+	color: azure;
+	text-align: center;
+	padding-top: 50px;
+	background-color:#AAB2DC70;
+}
+
+.locks{
+	font-size: 1.25em;
+	color: azure;
+	text-align: center;
+	background-color:#AAB2DC70;
+}
+
+form{
+	font-size: 2em;
+	text-align: center;
+	margin-left: 28%;
+}
+
+.box{
+	font-size: 2em;
+}
+
+.button{
+	font-size: 2em;
+}
