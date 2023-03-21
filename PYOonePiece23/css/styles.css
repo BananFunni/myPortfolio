@@ -1,0 +1,123 @@
+/* CSS Document */
+
+*,* active{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+header{
+	background-color: #058423;
+	
+}
+
+h1{
+	text-align:center; 
+	color: #FFFFFF
+}
+
+nav{
+	text-align: center;
+	
+}
+
+nav ul li{
+	display: inline-block;
+	text-decoration: none;
+	list-style-type: none;
+	font-size: 2em;
+	
+}
+
+a:link{
+	color: #FFFFFF;
+	text-decoration: none;
+	margin: 10px;
+}
+
+a:active{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #08D800;
+}
+
+a:visited{
+	color: #FDF408;
+}
+
+main{
+	border: dashed 50px #389F36;
+	background-color: #5A5A5A;
+}
+
+body{
+	background-color: #A7A7A7; 
+}
+
+
+
+form{
+	display: block;
+	font-size: 1.5em;
+	margin-left: 675px;
+}
+
+.box{
+	padding: 14px 28px;
+    font-size: .5em;
+    width: 500px;
+	border: thin solid #000000;
+}
+
+.button{
+	font-size: 1.5em;
+}
+
+p{
+	font-size: 1.75em;
+	text-align: center;
+	padding: 50px;
+	color: #E3E3E3;
+}
+
+ol p{
+	font-size: 2em;
+	text-align: center;
+	color: #91D193;
+}
+
+q{
+	color: #91D193;
+}
+
+.citation{
+	text-decoration: none;
+	list-style-type: none;
+	text-align: center;
+	font-size: 2em;
+}
+
+img{
+	width: 50%;
+	height: 50%;
+	margin-left: 480px;
+}
+
+fnav{
+	text-align: center;
+}
+
+fnav ul li{
+	display: inline-block;
+	text-decoration: none;
+	list-style-type: none;
+	font-size: 2em;
+	
+}
+
+footer{
+	background-color: #058423;
+}
