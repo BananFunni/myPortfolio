@@ -1,0 +1,111 @@
+/* CSS Document */
+
+*,*:after{
+	padding: 0px;
+	margin:0px;
+	border: 0px;
+}
+
+/*Colors and Fonts
+Colors:
+Black - #000000
+Gray - #3c3232
+Muted grayish red - #875b5b
+Muted red - #ae4a4a
+Red - #fb0000
+
+Fonts:
+font-family: 'Stick No Bills', sans-serif;
+font-family: 'Red Hat Display', sans-serif;
+*/
+
+
+main{
+	background-color: #000000;
+}
+
+body{
+	border: thick dashed #fb0000;
+}
+
+header{
+	background-color: #875b5b;
+}
+
+nav{
+	text-align: center;
+	background-color: #3c3232;
+}
+
+ul li{
+	display: inline-block;
+	font-family: 'Stick No Bills', sans-serif;
+		
+}
+
+a{
+	text-align: center;
+	color: #ae4a4a;
+	font-size: 2em;
+}
+
+a:active{
+	color: #3c3232;
+}
+
+a:hover{
+	font-size: 3em;
+	color: #ae4a4a;
+}
+
+a:visited{
+	color: #fb0000;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Stick No Bills', sans-serif;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Red Hat Display', sans-serif;
+}
+
+p{
+	text-align: center;
+	font-family: 'Red Hat Display', sans-serif;
+	color: #fb0000;
+	font-size: 1.5em;
+	padding: 50px
+}
+
+img{
+	width: 50%;
+	height: 50%;
+	margin-left: 430px;
+	padding: 50px;
+}
+
+blockquote{
+	text-align: center;
+	font-family: 'Red Hat Display', sans-serif;
+	font-size: .5em;
+}
+
+table{
+	margin-left: 38.5%;
+	font-family: 'Stick No Bills', sans-serif;
+	color: #ae4a4a;
+	font-size: 1.5em;
+}
+
+.box{
+	font-size: 1.5em;
+	border: solid thick #fb0000;
+}
+
+.button{
+	font-size: 1.5em;
+	margin-left: 17.5%;
+}
